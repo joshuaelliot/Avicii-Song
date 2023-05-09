@@ -67,7 +67,7 @@ const iframe= document.querySelector("iframe");
      
     })*/
 
-    const urlAlbums="http://localhost:3000/api/v1/avicii/albumes"
+    const urlAlbums="http://avicii.onrender.com/api/v1/avicii/albumes"
 
     const cardsAlbums= document.querySelectorAll(".card-album");
 

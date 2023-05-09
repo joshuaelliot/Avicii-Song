@@ -1,4 +1,4 @@
-const urlAlbums="http://localhost:3000/api/v1/avicii/albumes"
+
 
  export default async function tomarAlbums(url){
 
